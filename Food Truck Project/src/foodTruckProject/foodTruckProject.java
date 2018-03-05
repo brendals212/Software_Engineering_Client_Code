@@ -153,5 +153,7 @@ public class foodTruckProject extends JFrame {
 		lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 14));
 		lblNewLabel.setBounds(697, 424, 100, 23);
 		contentPane.add(lblNewLabel);
+		
+		//testing 
 	}
 }
